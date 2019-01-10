@@ -1,5 +1,4 @@
-# Skeleton
-Skeleton is easy Front-End development framework for Gulp, Pug (HTML) and SCSS.
+# Free Real Estate Template !
 
 Clone project
 ````
@@ -8,4 +7,4 @@ $ cd skeleton
 $ npm i
 $ gulp
 ````
-Your production files exported to dist folder when you save your development file.
+Your production files exported to dist folder.
