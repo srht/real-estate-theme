@@ -2,8 +2,8 @@
 
 Clone project
 ````
-$ git clone git@github.com:set/skeleton.git
-$ cd skeleton
+$ git clone git@github.com:set/real-estate-theme.git
+$ cd real-estate-theme
 $ npm i
 $ gulp
 ````
